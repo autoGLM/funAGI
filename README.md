@@ -1,12 +1,12 @@
 # funAGI
 fundamental AGI point of departure agi.py bdi.py logic.py and SocraticReasoning.py using api.py with memory.py<br />
 debug environment includes logging for deeper understanding of the reasoning process and troubleshooting<br />
-This "working" version is an exercise in the display of SocraticReasoning technique. This repository has been archived and research work is continuining at 
+This "working" version is an exercise in the display of SocraticReasoning technique. This repository has been archived and research work is continuining at <br />
 
-https://github.com/
+<a href="https://github.com/pythaiml/funAGI">https://github.com/pythaiml/funAGI</a><br />
 
 
-FundamentalAGI Project Setup
+<b>FundamentalAGI Project Setup</b>
 
 codebase to create a simplified and fun AGI for fundamentalAGI basic reasoning. funAGI.py uses SocraticReasoning.py with logic.py
 verbose logging to reason to truth as export of belief into ./memory/truth. This simplified version will omits reasoning.py and SimpleMind.py to directly leverage the core logic and memory management of the basic reasoning AGI. For a deep dive into SocraticReasoning.py visit<br />
@@ -200,7 +200,8 @@ as timestamped instruction / response<br />
 ```json
 {"instruction":"agi","response":"a logical conclusion based on the premise of autonomous general intelligence (agi) is that it has the ability to independently perform a wide range of tasks at a level equal to or beyond that of a human being. agi would be capable of understanding, learning, and applying knowledge across a wide range of domains and tasks, and would be able to adapt to new situations and environments. it would be able to understand and respond to natural language, recognize and interpret visual and auditory information, and make decisions and solve problems based on its understanding. additionally, agi would be capable of self-improvement and continue to learn and get better at tasks over time. however, it is important to note that the development of agi also raises ethical and societal concerns that need to be addressed."}
 ```
-this is the bare bones working version of funAGI with error logging and first errors to fix from first working deployment. fundamental funAGI.py point of departure version 1
+this is the bare bones working version of funAGI with error logging and first errors to fix from first working deployment. fundamental funAGI.py point of departure version 1. This version is being left as is. Refactoring and upgrade work is happening at <a href="https://github.com/pythaiml/funAGI">https://github.com/pythaiml/funAGI</a><br />
+<a href="https://rage.pythai.net/understanding-socraticreasoning-py/">SocraticReasoning.py overview</a>
 
 ```bash
 git clone https://github.com/autoGLM/funAGI/
