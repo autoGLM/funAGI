@@ -212,4 +212,8 @@ pip install -r requirements.txt
 python3 funAGI.py
 ```
 
-
+This repo is archived as the first "working" instance of fundamental AGI<br />
+work continues at several repos where no single repo is the "working" version:<br />
+each component has different "working" parts<br />
+<a href="https://github.com/llamagi/lmagi">lmagi</a><br />
+<a href="https://github.com/easyAGI/ezAGI">ezAGI</a><br />
