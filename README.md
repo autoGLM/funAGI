@@ -21,7 +21,7 @@ verbose logging to reason to truth as export of belief into ./memory/truth. This
     chatter.py: Interface for different chat models.
     logic.py: Logic table management and evaluation.
     memory.py: Memory management for storing dialogues and truth values.
-    SocraticReasoning.py: Socratic reasoning engine for the AGI.
+    SocraticReasoning.py: Socratic reasoning engine creates augmented generative intelligence for AGI
 
 # agi.py AGI workflow
 
